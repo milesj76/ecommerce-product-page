@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/vue-pinia-responsive-product-page-functional-cart-and-image-modal-dBnxIrqZ-Q)
+- Live Site URL: [milesj76.github.io/ecommerce-product-page](https://milesj76.github.io/ecommerce-product-page/)
 
 ## My process
 
