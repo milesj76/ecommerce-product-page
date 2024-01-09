@@ -1,5 +1,4 @@
 <script setup lang="ts">
-  import { ref } from 'vue';
   import { useImageModal } from '@/stores/imageModal';
 
   import IconX from './icons/IconX.vue';
